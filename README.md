@@ -1,5 +1,8 @@
 <p align="center">
   <strong >Hi there 👋 </strong>
+  - 🔭 I’m currently working on leetcode (probably)
+  - 🙏 I’m currently learning Android devlopment with Codepath
+  - ⚡ Fun fact: It takes more effort to frown, then to smile. So keep smiling! 
 </p> 
  
 <!--
@@ -12,10 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-
-- 🔭 I’m currently working on leetcode (probably)
-- 🙏 I’m currently learning Android devlopment with Codepath
-- ⚡ Fun fact: It takes more effort to frown, then to smile. So keep smiling! 
 
 <!---
 GITHUB Streaks
