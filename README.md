@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!---
+GITHUB Streaks
+--->
+ 
+ 
+  <p align="center">
+  <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  > 
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmid198&theme=dracula&show)"  />
+<!--   <img src="https://media.giphy.com/media/1wPC7g6WN1HtqAiBq1/giphy.gif" width="60px"  >  -->
+ </p> 
