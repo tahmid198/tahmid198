@@ -1,8 +1,13 @@
-<p align="center">
-  <strong >Hi there 👋 </strong>
-  - 🔭 I’m currently working on leetcode (probably)
-  - 🙏 I’m currently learning Android devlopment with Codepath
-  - ⚡ Fun fact: It takes more effort to frown, then to smile. So keep smiling! 
+<p align="center"> <strong >Hi there 👋 </strong> </p> 
+
+  
+  <p align="center"> 🔭 I’m currently working on leetcode (probably) </p> 
+  
+  <p align="center"> 🙏 I’m currently learning Android devlopment with Codepath </p> 
+
+  
+ <p align="center"> ⚡ Fun fact: It takes more effort to frown, then to smile. So keep smiling! </p> 
+
 </p> 
  
 <!--
