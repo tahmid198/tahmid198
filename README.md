@@ -1,9 +1,9 @@
 <p align="center"> <strong >Hi there 👋 </strong> </p> 
 
   
-  <p align="center"> 🔭 I’m currently working on leetcode (probably) </p> 
-  
-  <p align="center"> 🙏 I’m currently learning Android devlopment with Codepath (amazing) </p> 
+<!--   <p align="center"> 🔭 I’m currently working on leetcode (probably) </p> 
+   -->
+  <p align="center"> 🙏 I’m currently climbing mountains for a breath of freash air (Almost there) </p> 
 
   
  <p align="center"> ⚡ Fun fact: It takes more effort to frown, then to smile (so keep smiling!) </p> 
